@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/itsmenayrb/itsmenayrb.mop-generator.io/static/css/main.f0d564b5.css",
+    "main.js": "/itsmenayrb/itsmenayrb.mop-generator.io/static/js/main.06116643.js",
+    "static/js/787.8d7d063b.chunk.js": "/itsmenayrb/itsmenayrb.mop-generator.io/static/js/787.8d7d063b.chunk.js",
+    "index.html": "/itsmenayrb/itsmenayrb.mop-generator.io/index.html",
+    "main.f0d564b5.css.map": "/itsmenayrb/itsmenayrb.mop-generator.io/static/css/main.f0d564b5.css.map",
+    "main.06116643.js.map": "/itsmenayrb/itsmenayrb.mop-generator.io/static/js/main.06116643.js.map",
+    "787.8d7d063b.chunk.js.map": "/itsmenayrb/itsmenayrb.mop-generator.io/static/js/787.8d7d063b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d564b5.css",
+    "static/js/main.06116643.js"
+  ]
+}
